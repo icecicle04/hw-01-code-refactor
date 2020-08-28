@@ -1,6 +1,26 @@
 # hw-01-code-refactor
 
-updated website title tag to **Horiseon**
-## hello cmon 
-updated the search engine optimization __class__ to include an __ID__ in order to properly link to the image attribute below.
+# Horiseon
 
+## Website
+
+Here at Horiseon, we praise ourselves with how well we know what we're doing. We can prove that too, thanks to our amazing reviews.
+
+## Our Services
+
+Search Engine Optimization
+
+Online Reputation Management
+
+Social Media Marketing
+
+Lead Generation
+
+Brand Awareness
+
+Cost Management
+
+## What it looks like
+
+![Image of website]
+()
